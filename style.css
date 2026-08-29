@@ -1,0 +1,18 @@
+#one{
+display: flex;
+border: solid black  1px;
+justify-content: space-around;
+background-color: rgba(0, 255, 255, 0.495);
+padding: 2%;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-image:linear-gradient(rgba(165, 228, 249, 0.427),rgba(108, 243, 189, 0.504),rgba(148, 181, 248, 0.427),rgba(99, 245, 157, 0.46));
+}
+#gallery{
+    text-align: center;
+    display: flex;
+    height: 150px;
+    width:150px;
+}
